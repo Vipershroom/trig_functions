@@ -1,1 +1,1 @@
-Hello, World!
+Very simple library that provides trig functions.
